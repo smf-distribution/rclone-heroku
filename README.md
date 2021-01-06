@@ -8,10 +8,10 @@ Unlike other build packs, I never compile anything and remove this git.
 Add the following to your `.buildpacks`:
 
 ```
-https://github.com/amivin/rclone-heroku.git
+https://github.com/velizarn/rclone-heroku.git
 ```
 
 Or run the following from the heroku command line:
 
 ```
-heroku buildpacks:add https://github.com/amivin/rclone-heroku.git
+heroku buildpacks:add https://github.com/velizarn/rclone-heroku.git
